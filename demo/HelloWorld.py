@@ -1,4 +1,4 @@
 # Hello World
 import time
 
-print(time.time())
+print('Hello World, current time is ', str(time.time()))
